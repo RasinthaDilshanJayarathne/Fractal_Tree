@@ -9,6 +9,7 @@ tu.backward(100)
 tu.speed(200)
 tu.shape('turtle')
 
+
 def tree(i):
     if i<10:
         return
